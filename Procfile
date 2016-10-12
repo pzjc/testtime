@@ -1,1 +1,1 @@
-web: gunicorn app:utc-time
+web: gunicorn app:app
