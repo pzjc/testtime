@@ -13,4 +13,4 @@ six==1.10.0
 ssh-import-id==5.5
 urllib3==1.13.1
 virtualenv==15.0.3
-Werkzeug==0.11.11
+Werkzeug==0.15.3
